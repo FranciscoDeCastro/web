@@ -13,7 +13,7 @@
 })();
 
 function getMonthDifference() {
-    startDate = new Date('2022-06-8')
+    startDate = new Date('2022-06-08')
     endDate = new Date()
     resp = endDate.getMonth() - startDate.getMonth() + 12 * (endDate.getFullYear() - startDate.getFullYear())
     return resp + "+";
