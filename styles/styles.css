@@ -310,22 +310,34 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
   width: 95%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+  width: 85%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+  width: 85%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .ruby {
+  width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .rubyOnRails {
+  width: 95%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
   width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .ingles {
+  width: 100%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .español {
+  width: 100%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .java {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .git {
+  width: 100%;
 }
 
 .stat-title {
